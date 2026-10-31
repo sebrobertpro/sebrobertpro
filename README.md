@@ -8,7 +8,7 @@ Accustomed to demanding environments within the banking, finance, e-commerce, in
 Experienced in Lead Developer and Scrum Master roles, with a focus on code reviews, mentoring, and implementing best practices.
 
 
-### 💻 Stack
+### Stack
 
 **Langages** &nbsp; `JavaScript` `TypeScript` `Java 21` `Python` `SQL` `Shell`
 
@@ -24,7 +24,7 @@ Experienced in Lead Developer and Scrum Master roles, with a focus on code revie
 
 
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <picture>
