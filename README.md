@@ -10,15 +10,21 @@ Experienced in Lead Developer and Scrum Master roles, with a focus on code revie
 
 ### Stack
 
-**Langages** &nbsp; `JavaScript` `TypeScript` `Java 21` `Python` `SQL` `Shell`
+**Architecture** &nbsp; `DDD` `CQRS` `Microservices` `Hexagonal Architecture` `REST APIs` `GraphQL` `Monolith`
 
-**Frontend** &nbsp; `React` `MUI`
+**Langages** &nbsp; `JavaScript` `TypeScript` `Java` `Python` `SQL` `Shell`
 
-**Backend** &nbsp; `Node.js` `NestJS` `Java` `Spring Boot`
+**Frontend** &nbsp; `React` `Next.js`  `MUI` `Tailwind CSS` `Redux` `Angular`
 
-**Database** &nbsp; `PostgreSQL` `MongoDB` `Oracle` `MySQL` 
+**Backend** &nbsp; `Node.js` `NestJS` `Java 8-21` `Spring Boot` 
 
-**DevOps** &nbsp; `Docker` `Jenkins` `Git Lab CI/CD` `Github Actions` `AWS` `Microsoft Azure`
+**Database & Messaging** &nbsp; `PostgreSQL` `MongoDB` `Oracle` `MySQL` `Kafka` `RabbitMQ` 
+
+**Testing & Quality** &nbsp; `Jest` `Supertest` `Cypress` `JUnit` `Mockito` `ESLint` `Prettier` `SonarQube` 
+
+**Security** &nbsp; `OpenID` `SAML` `API Gateway` `Keycloack`
+
+**DevOps & Cloud** &nbsp; `Docker` `Jenkins` `Git Lab CI/CD` `Github Actions` `AWS` `Microsoft Azure`
 
 
 
